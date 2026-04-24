@@ -4,7 +4,6 @@
 
 **Passionate innovator building intelligent, scalable solutions at the intersection of AI/ML and Full-Stack Development**
 
-[![Phone](https://img.shields.io/badge/Phone-+91--9398289852-green?logo=whatsapp&logoColor=white)](tel:+919398289852)
 [![Email](https://img.shields.io/badge/Email-naganjali0609@gmail.com-red?logo=gmail&logoColor=white)](mailto:naganjali0609@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjalibirudu-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjalibirudu-410149321)
 [![GitHub](https://img.shields.io/badge/GitHub-anjalibirudu-181717?logo=github&logoColor=white)](https://github.com/anjalibirudu)
